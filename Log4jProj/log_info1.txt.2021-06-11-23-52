@@ -1,0 +1,15 @@
+2021-06-11 23:52:41 INFO dbc.SelectTest2   <clinit> main       0 20 com.nit.jdbc.SelectTest:: Log4j setup is ready 
+2021-06-11 23:52:41 DEBUG dbc.SelectTest2       main main       13 29 SelectTest:: start of main(-) method 
+2021-06-11 23:52:41 DEBUG dbc.SelectTest2       main main       14 36 SelectTest:: JDBC driver class loaded 
+2021-06-11 23:52:42 DEBUG dbc.SelectTest2       main main       1497 40 SelectTest:: Connection is established with DB s/w 
+2021-06-11 23:52:42 DEBUG dbc.SelectTest2       main main       1585 45 SelectTest:: JDBC statement object is created 
+2021-06-11 23:52:42 DEBUG dbc.SelectTest2       main main       1630 50 SelectTest:: SQL Query is send to DB s/w for execution and ResultSet object is generated 
+2021-06-11 23:52:42 WARN dbc.SelectTest2       main main       1644 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:52:42 WARN dbc.SelectTest2       main main       1645 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:52:42 WARN dbc.SelectTest2       main main       1647 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:52:42 DEBUG dbc.SelectTest2       main main       1648 58 com.nit.jdbc.SelectTest:: ResultSet Object is processed 
+2021-06-11 23:52:42 DEBUG dbc.SelectTest2       main main       1648 70 com.nit.jdbc.SelectTest:: Closing JDBC objects 
+2021-06-11 23:52:42 DEBUG dbc.SelectTest2       main main       1649 75 com.nit.jdbc.SelectTest:: ResultSet object is closed 
+2021-06-11 23:52:42 DEBUG dbc.SelectTest2       main main       1649 84 com.nit.jdbc.SelectTest:: Statement object is closed 
+2021-06-11 23:52:42 DEBUG dbc.SelectTest2       main main       1651 93 com.nit.jdbc.SelectTest:: Connection object is closed 
+2021-06-11 23:52:42 DEBUG dbc.SelectTest2       main main       1651 100 com.nit.jdbc.SelectTest:: end of main(-) method 

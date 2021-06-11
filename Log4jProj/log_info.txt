@@ -1,0 +1,60 @@
+2021-06-11 23:13:43 INFO dbc.SelectTest2   <clinit> main       0 20 com.nit.jdbc.SelectTest:: Log4j setup is ready 
+2021-06-11 23:13:43 DEBUG dbc.SelectTest2       main main       12 29 SelectTest:: start of main(-) method 
+2021-06-11 23:13:43 DEBUG dbc.SelectTest2       main main       13 36 SelectTest:: JDBC driver class loaded 
+2021-06-11 23:13:44 DEBUG dbc.SelectTest2       main main       1349 40 SelectTest:: Connection is established with DB s/w 
+2021-06-11 23:13:44 DEBUG dbc.SelectTest2       main main       1433 45 SelectTest:: JDBC statement object is created 
+2021-06-11 23:13:44 DEBUG dbc.SelectTest2       main main       1471 50 SelectTest:: SQL Query is send to DB s/w for execution and ResultSet object is generated 
+2021-06-11 23:13:44 WARN dbc.SelectTest2       main main       1482 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:13:44 WARN dbc.SelectTest2       main main       1482 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:13:44 WARN dbc.SelectTest2       main main       1484 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:13:44 DEBUG dbc.SelectTest2       main main       1484 58 com.nit.jdbc.SelectTest:: ResultSet Object is processed 
+2021-06-11 23:13:44 DEBUG dbc.SelectTest2       main main       1484 70 com.nit.jdbc.SelectTest:: Closing JDBC objects 
+2021-06-11 23:13:44 DEBUG dbc.SelectTest2       main main       1484 75 com.nit.jdbc.SelectTest:: ResultSet object is closed 
+2021-06-11 23:13:44 DEBUG dbc.SelectTest2       main main       1485 84 com.nit.jdbc.SelectTest:: Statement object is closed 
+2021-06-11 23:13:44 DEBUG dbc.SelectTest2       main main       1486 93 com.nit.jdbc.SelectTest:: Connection object is closed 
+2021-06-11 23:13:44 DEBUG dbc.SelectTest2       main main       1486 100 com.nit.jdbc.SelectTest:: end of main(-) method 
+2021-06-11 23:19:13 INFO dbc.SelectTest2   <clinit> main       0 20 com.nit.jdbc.SelectTest:: Log4j setup is ready 
+2021-06-11 23:19:13 DEBUG dbc.SelectTest2       main main       11 29 SelectTest:: start of main(-) method 
+2021-06-11 23:19:13 DEBUG dbc.SelectTest2       main main       12 36 SelectTest:: JDBC driver class loaded 
+2021-06-11 23:19:14 DEBUG dbc.SelectTest2       main main       1472 40 SelectTest:: Connection is established with DB s/w 
+2021-06-11 23:19:14 DEBUG dbc.SelectTest2       main main       1596 45 SelectTest:: JDBC statement object is created 
+2021-06-11 23:19:14 DEBUG dbc.SelectTest2       main main       1643 50 SelectTest:: SQL Query is send to DB s/w for execution and ResultSet object is generated 
+2021-06-11 23:19:15 WARN dbc.SelectTest2       main main       1658 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:19:15 WARN dbc.SelectTest2       main main       1659 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:19:15 WARN dbc.SelectTest2       main main       1661 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:19:15 DEBUG dbc.SelectTest2       main main       1661 58 com.nit.jdbc.SelectTest:: ResultSet Object is processed 
+2021-06-11 23:19:15 DEBUG dbc.SelectTest2       main main       1662 70 com.nit.jdbc.SelectTest:: Closing JDBC objects 
+2021-06-11 23:19:15 DEBUG dbc.SelectTest2       main main       1662 75 com.nit.jdbc.SelectTest:: ResultSet object is closed 
+2021-06-11 23:19:15 DEBUG dbc.SelectTest2       main main       1663 84 com.nit.jdbc.SelectTest:: Statement object is closed 
+2021-06-11 23:19:15 DEBUG dbc.SelectTest2       main main       1665 93 com.nit.jdbc.SelectTest:: Connection object is closed 
+2021-06-11 23:19:15 DEBUG dbc.SelectTest2       main main       1666 100 com.nit.jdbc.SelectTest:: end of main(-) method 
+2021-06-11 23:19:22 INFO dbc.SelectTest2   <clinit> main       0 20 com.nit.jdbc.SelectTest:: Log4j setup is ready 
+2021-06-11 23:19:22 DEBUG dbc.SelectTest2       main main       8 29 SelectTest:: start of main(-) method 
+2021-06-11 23:19:22 DEBUG dbc.SelectTest2       main main       8 36 SelectTest:: JDBC driver class loaded 
+2021-06-11 23:19:23 DEBUG dbc.SelectTest2       main main       1322 40 SelectTest:: Connection is established with DB s/w 
+2021-06-11 23:19:23 DEBUG dbc.SelectTest2       main main       1412 45 SelectTest:: JDBC statement object is created 
+2021-06-11 23:19:23 DEBUG dbc.SelectTest2       main main       1455 50 SelectTest:: SQL Query is send to DB s/w for execution and ResultSet object is generated 
+2021-06-11 23:19:23 WARN dbc.SelectTest2       main main       1469 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:19:23 WARN dbc.SelectTest2       main main       1470 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:19:23 WARN dbc.SelectTest2       main main       1471 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:19:23 DEBUG dbc.SelectTest2       main main       1472 58 com.nit.jdbc.SelectTest:: ResultSet Object is processed 
+2021-06-11 23:19:23 DEBUG dbc.SelectTest2       main main       1472 70 com.nit.jdbc.SelectTest:: Closing JDBC objects 
+2021-06-11 23:19:23 DEBUG dbc.SelectTest2       main main       1473 75 com.nit.jdbc.SelectTest:: ResultSet object is closed 
+2021-06-11 23:19:23 DEBUG dbc.SelectTest2       main main       1473 84 com.nit.jdbc.SelectTest:: Statement object is closed 
+2021-06-11 23:19:23 DEBUG dbc.SelectTest2       main main       1475 93 com.nit.jdbc.SelectTest:: Connection object is closed 
+2021-06-11 23:19:23 DEBUG dbc.SelectTest2       main main       1475 100 com.nit.jdbc.SelectTest:: end of main(-) method 
+2021-06-11 23:19:58 INFO dbc.SelectTest2   <clinit> main       0 20 com.nit.jdbc.SelectTest:: Log4j setup is ready 
+2021-06-11 23:19:58 DEBUG dbc.SelectTest2       main main       8 29 SelectTest:: start of main(-) method 
+2021-06-11 23:19:58 DEBUG dbc.SelectTest2       main main       8 36 SelectTest:: JDBC driver class loaded 
+2021-06-11 23:19:59 DEBUG dbc.SelectTest2       main main       1480 40 SelectTest:: Connection is established with DB s/w 
+2021-06-11 23:19:59 DEBUG dbc.SelectTest2       main main       1594 45 SelectTest:: JDBC statement object is created 
+2021-06-11 23:19:59 DEBUG dbc.SelectTest2       main main       1640 50 SelectTest:: SQL Query is send to DB s/w for execution and ResultSet object is generated 
+2021-06-11 23:19:59 WARN dbc.SelectTest2       main main       1656 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:19:59 WARN dbc.SelectTest2       main main       1657 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:19:59 WARN dbc.SelectTest2       main main       1658 56 com.nit.jdbc.SelectTest:: The Records are ResultSet object are retrieved using getString(-) for all cols..change them accordingly 
+2021-06-11 23:19:59 DEBUG dbc.SelectTest2       main main       1659 58 com.nit.jdbc.SelectTest:: ResultSet Object is processed 
+2021-06-11 23:19:59 DEBUG dbc.SelectTest2       main main       1659 70 com.nit.jdbc.SelectTest:: Closing JDBC objects 
+2021-06-11 23:19:59 DEBUG dbc.SelectTest2       main main       1660 75 com.nit.jdbc.SelectTest:: ResultSet object is closed 
+2021-06-11 23:19:59 DEBUG dbc.SelectTest2       main main       1660 84 com.nit.jdbc.SelectTest:: Statement object is closed 
+2021-06-11 23:19:59 DEBUG dbc.SelectTest2       main main       1663 93 com.nit.jdbc.SelectTest:: Connection object is closed 
+2021-06-11 23:19:59 DEBUG dbc.SelectTest2       main main       1664 100 com.nit.jdbc.SelectTest:: end of main(-) method 
